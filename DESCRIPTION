@@ -1,0 +1,8 @@
+Package: envestigate
+Title: Package for interrogating environments
+Version: 0.0.1
+Description: Foo!
+License: GPL-2
+LazyData: true
+Maintainer: Jeffrey Horner <jeffrey.horner@gmail.com>
+Author: Jeffrey Horner <jeffrey.horner@gmail.com>
